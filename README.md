@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RumiaLunnar
-- 👀 I’m interested in Embedded system & Linux
+- 👀 I’m interested in C++  & Linux
 - 🌱 I’m currently learning noting
 - 📫 How to reach me rumialunnar at gmail.com
 
